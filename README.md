@@ -1,4 +1,4 @@
-# Saffron Restaurant Management System (MERN)
+# Savora Restaurant Management System (MERN)
 
 ## Requirements
 Node.js 18+, MongoDB running locally, npm.
